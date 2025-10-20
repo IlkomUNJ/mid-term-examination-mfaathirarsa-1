@@ -7,4 +7,4 @@ NIM: 1313623023
 
 Ilmu Komputer 2023 A
 
-AI Reference: 
+AI Reference: https://gemini.google.com/share/e1a5fd0a40af
